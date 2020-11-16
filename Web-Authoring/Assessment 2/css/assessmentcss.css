@@ -1,0 +1,320 @@
+* {
+    padding: 0px;
+    margin: 0px;
+	
+}
+html, body {
+	background: #063d4c;
+    -webkit-box-shadow: inset 0px 0px 150px 0px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: inset 0px 0px 150px 0px rgba(0, 0, 0, 0.8);
+    box-shadow: inset 0px 0px 150px 0px rgba(0, 0, 0, 0.8);
+    width: 100%;
+    position: absolute;
+    margin: 0;
+	font: 15px Verdana, 'Lucida Grande';
+   
+}
+a{
+	text-decoration: none;
+	color: #777;
+	}
+p , h1 , h2 , h3 , h4 , h5 , h6 {color: #777;}
+.space{
+	width:100%;
+	height:45px;
+	display:block;
+}
+.txtspace{
+	width: 100%;
+	height:10px;
+}
+#spacenone{
+	width:100%;
+	height:45px;
+	display:none;
+}
+.optionchoice{
+	display:none;
+	height: 500px ;
+	width: 90%;
+	margin-left:  5%;
+	margin-right: 5%;
+}
+.top {
+    max-width: 100%;
+    min-width: 510px;
+    height: 300px;
+    padding: 3%;
+}
+/*.top #logo{
+	width:220px;
+	height: 220px;
+	display:inline;
+	padding: 10px;
+}*/
+.top  #image {
+	border-radius: 10px;
+	width: 300px;
+    height: 200px;
+	 padding: 10px;
+	 display: block;
+    margin: 0 auto;
+	
+}
+/*.top h2{
+		display:inline;
+		width: 300px;
+		border: 3px solid #73AD21;
+}*/
+
+.top nav {
+	max-width: 100%;
+	min-width: 510px;
+	height: 80px;
+	background: #222;
+	border-radius: 25px;
+	margin: 10px
+}
+
+.top ul {
+	text-align: center;
+}
+
+.top ul li {
+	
+	cursor: pointer;
+	-webkit-transition: padding .05s linear;
+	-moz-transition: padding .05s linear;
+	-ms-transition: padding .05s linear;
+	-o-transition: padding .05s linear;
+	transition: padding .05s linear;
+	display: inline-block;
+}
+
+.top ul li a {
+	line-height: 80px;
+	padding: 0 20px;
+	height: 80px;
+	color: #777;
+	-webkit-transition: all .1s ease-out;
+	-moz-transition: all .1s ease-out;
+	-ms-transition: all .1s ease-out;
+	-o-transition: all .1s ease-out;
+	transition: all .1s ease-out;
+}
+.top ul li a:hover {
+	color: #eee;
+}
+.testimonyback{
+	height: 500px;
+	background-image: url(../assets/galaxy4.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	margin-left: 15px;
+	margin-right: 15px;
+	position: relative;
+}
+.testimony{
+	height : 400px;
+	width: 80%;
+	min-width: 510px;
+	background-color: white;
+	opacity: 0.6;
+	margin-top: 50px;
+	margin-left: 10%;
+	margin-right:10%;
+	position: absolute;
+}
+.testimonyintro{
+	height:40px;
+	width:30%;
+	min-width: 510px;
+	margin-top: 12px;
+	margin-left: 5%;
+	margin-right: 65%;
+	position: absolute;
+}
+.testimony1{
+	height:100px;
+	width: 90%;
+	margin-top: 64px ;
+	margin-left: 5%;
+	margin-right: 5%;
+	position: absolute;
+}
+.testimony2{
+	height:100px;
+	width: 90%;
+	margin-top: 176px ;
+	margin-left: 5%;
+	margin-right: 5%;
+	position: absolute;
+}
+.testimony3{
+	height:100px;
+	width: 90%;
+	margin-top: 288px;
+	margin-left: 5%;
+	margin-right: 5%;
+	position: absolute;
+}
+
+.footerlinks p {
+display: block;
+position: relative;
+font: 15px Verdana, 'Lucida Grande';
+text-align: center;
+color: #777;
+text-decoration: none;	
+}
+
+.gmap {
+	display: inline;
+	
+}
+#map {
+    width: 60%;
+    height: 250px;
+    background-color: grey;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#tab{
+	padding: 10px;
+	
+}
+.alonetxt{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+#vehicle-image{
+    display:inline-block;
+	height: 300px;
+	width: 60%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	cursor: pointer;
+}
+#vehicle-name{
+	text-align:center;
+	margin-left: 45%;
+	margin-right:45%;
+    width: 10%;
+	font: 15px Verdana, 'Lucida Grande';
+}
+.VehicleChoice{
+	display: inline-block;
+}
+.option-button{
+	background-color: #5c5c8a;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+	height:200px;
+	width: 10%;
+	margin-left: 2.5%;
+	margin-right:2.5%;
+	
+}
+.products{
+	list-style:none;
+	margin-right:300px;
+	height:100%;
+}
+.products li{
+	display:inline;
+	float:left;
+	margin:5px;
+	position:relative;
+}
+.item{
+	display:block;
+	text-decoration:none;
+}
+.item img{
+	border: 1px solid #eee;
+    background-color: #fff;
+    max-width: 220px;
+}
+#Cart{
+	display: none;
+	position: fixed;
+    right: 0;
+    top: 10px;
+    width: 300px;
+    background: #5c5c8a;
+    padding: 0px 10px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    bottom: 10px;
+	color: black;
+		}
+
+table, th, td {
+	border: 2px solid black;
+	background-color: white;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 3px;
+
+}
+.Deliv{
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.total{
+	margin:0;
+	text-align:right;
+	padding-right:20px;
+	margin-top: 10px;
+	color: black;
+}
+#geo{
+	height:100px;
+	width: 30%;
+	margin-left: 35%;
+	margin-right:35%;
+	
+}
+#thname{width: 120px;}
+#thquantity{width: 40px; /*float: right;*/
+}
+#thprice{width: 60px; /*float: right;*/
+}
+@media all and (min-width: 780px) {
+    .testimony h1 {
+        font-size: 15px;
+    }
+}
+
+@media all and (max-width: 780px) and (min-width : 580px) {
+    .testimony h1 {
+        font-size: 14px;
+    }
+	.testimony p {
+		font-size: 10px; 
+	}
+}
+@media all and (max-width: 580px) {
+.testimony h1 {
+        font-size: 12px;
+    }
+	.testimony p {
+		font-size: 8px; 
+	}
+	#vehicle-name{
+	margin-left: 35%;
+	margin-right:35%;
+    width: 30%;	
+	}
+
+}
+

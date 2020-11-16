@@ -1,0 +1,169 @@
+<!doctype html>
+<html>
+<head>
+<meta charset= "utf-8">
+<title>GalaxyRiders-Order</title>
+		<link rel="stylesheet" type="text/css" href="css/assessmentcss.css">
+		<link rel="icon" href="assets/GalaxyLogo.png">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script type="text/javascript" src="jscript/assessmentjscript.js"></script>
+	<script type="text/javascript" src="jscript/assessmentjquery.js"></script>
+</head>
+
+<body class = "order">
+<header class = "top">
+		<a name = "order"></a>
+		<img id = "image" src="assets/GalaxyLogo.png" alt = "Main Logo Image">		
+		<hr/>
+	<nav class = "links">
+		<ul id="indexheader">
+			<li><a href="Index.html#home">Home</a></li>
+			<li><a href="aboutus.html#about">About Us</a></li>
+			<li><a href="order.html#order">Purchase</a></li>
+			<li><a href="contact.html#contact">Contact Us</a></li>
+		</ul>
+	</nav>
+</header>
+
+<section class = "space"></section>
+
+<section class = "Option">
+	<div class="VehicleChoice">
+				<button class="option-button" onclick = "onVehicleChange(-1)">&laquo;</button>
+				<img id="vehicle-image" src="assets/vehicle-land-1.jpg"  alt = "Choice" onclick = "PictureClicked()" />
+				<button class="option-button" onclick="onVehicleChange(+1)">&raquo;</button>
+	</div>
+	<input id="vehicle-name" type="text" value="Land" readonly />
+</section>
+
+<section id = "spacenone"></section>
+<section class = "optionchoice" id = "option0">
+<ul class="products">
+		<li>
+			<a href="#" class="item" data-id="1">
+				<img src="assets/vehicle-land-1.jpg" alt = "Land1"/>
+				<section class="initialprice">
+					<p class="title" data="45000">AUDI Custom</p>
+					<p>Starting Price:£45,000</p>
+				</section>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="item" data-id="2">
+				<img src="assets/vehicle-land-2.jpg" alt = "Land2"/>
+				<section class="initialprice">
+					<p class="title" data="60000">Ferrari Custom</p>
+					<p>Starting Price:£60,000</p>
+				</section>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="item" data-id="3">
+				<img src="assets/vehicle-land-3.jpg" alt = "Land3"/>
+				<section class="initialprice">
+					<p class="title" data="15000">Ducati Custom</p>
+					<p>Starting Price:£15,000</p>
+				</section>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="item" data-id="4">
+				<img src="assets/vehicle-land-4.jpg" alt = "Land4"/>
+				<section class="initialprice">
+					<p class="title" data="500">Triumph Custom</p>
+					<p>Starting Price:£500</p>
+				</section>
+			</a>
+		</li>
+	</ul>
+</section>
+
+<section class = "optionchoice" id = "option1">
+	<ul class="products">
+		<li>
+			<a href="#" class="item" data-id="5">
+				<img src="assets/vehicle-water-1.png" alt = "Sea1"/>
+				<section class="initialprice">
+					<p class="title" data="45000">Mariner Custom</p>
+					<p>Starting Price:£45,000</p>
+				</section>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="item" data-id="2">
+				<img src="assets/vehicle-land-2.jpg" alt = "Sea2"/>
+				<section class="initialprice">
+					<p class="title" data="60000">Ferrari Custom</p>
+					<p>Starting Price:£60,000</p>
+				</section>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="item" data-id="3">
+				<img src="assets/vehicle-land-3.jpg" alt = "Sea3" />
+				<section class="initialprice">
+					<p class="title" data="15000">Ducati Custom</p>
+					<p>Starting Price:£15,000</p>
+				</section>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="item" data-id="4">
+				<img src="assets/vehicle-land-4.jpg" alt = "Sea4"/>
+				<section class="initialprice">
+					<p class="title" data="500">Triumph Custom</p>
+					<p>Starting Price:£500</p>
+				</section>
+			</a>
+		</li>
+	</ul>
+</section>
+
+
+<section class = "optionchoice" id = "option2"></section>
+
+
+<section class = "optionchoice" id = "option3"></section>
+
+<section id = "Cart">
+<h1>Shopping Cart</h1>
+		<div style="background:#fff">
+		<table id="cartcontent" style="width:300px;height:50%;">
+			<thead class = "tableheader">
+				<tr>
+					<th  id = "thname"  >Name</th>
+					<th  id = "thquantity">Quantity</th>
+					<th  id = "thprice">Price</th>
+				</tr>
+			</thead>
+		<tbody>                            
+        <tr class = "Products" id = "item1"></tr>  
+		<tr class = "Products" id = "item2"></tr> 
+		<tr class = "Products" id = "item3"></tr> 
+		<tr class = "Products" id = "item4"></tr> 
+		<tr class = "Products" id = "item5"></tr> 
+		<tr class = "Products" id = "item6"></tr> 
+		<tr class = "Products" id = "item7"></tr> 
+        </tbody>
+		</table>
+		</div>
+		<p class="total">Total: £0</p>
+		<h2>Drop here to add to cart</h2>
+		<form action="purchasing.html"><button>customize and confirm purchase</button></form>
+</section>
+
+<section class = "space"></section>
+<footer class = "footerlinks" id = "orderfooter">
+<p><a href="Index.html#home"> Home  &nbsp;</a><a href="aboutus.html#about"> About Us  &nbsp;</a>
+<a href="order.html#order"> Purchase  &nbsp;</a><a href="contact.html#contact"> Contact Us </a><p>
+<p>Galaxy Riders ltd 2016</p>
+</footer>	
+
+
+
+</body>
+
+</html>
