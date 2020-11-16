@@ -1,0 +1,12 @@
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 1\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache

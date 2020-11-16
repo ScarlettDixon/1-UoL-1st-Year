@@ -1,0 +1,12 @@
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\bin\Debug\Assessment 2- Dice Game.exe.config
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\obj\Debug\Assessment 2- Dice Game.csprojResolveAssemblyReference.cache
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\bin\Debug\Assessment 2- Dice Game.exe.config
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\bin\Debug\Assessment 2- Dice Game.exe
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\bin\Debug\Assessment 2- Dice Game.pdb
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\obj\Debug\Assessment 2- Dice Game.csprojResolveAssemblyReference.cache
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\obj\Debug\Assessment 2- Dice Game.exe
+E:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\obj\Debug\Assessment 2- Dice Game.pdb
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\obj\Debug\Assessment 2- Dice Game.exe
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\obj\Debug\Assessment 2- Dice Game.pdb
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\bin\Debug\Assessment 2- Dice Game.exe
+F:\University Work\Year 1\Programming and DataStructures\Assessments\Assessment 2\Assessment 2- Dice Game\Assessment 2- Dice Game\bin\Debug\Assessment 2- Dice Game.pdb
