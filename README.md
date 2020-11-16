@@ -1,7 +1,7 @@
 # 1-UoL-1st-Year
 Code and other information from the first year of a BSc Computer Science degree at the University of Lincoln.
 
-Student ID: 16602092 
+Student ID: 16602092
 
 **Modules Taken:**
 
